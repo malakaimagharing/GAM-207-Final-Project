@@ -1746,3 +1746,259 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.01.26-03.23.17:153][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3236.498047
 [2026.01.26-03.23.17:266][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.26-03.23.17:266][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3236.601562, Update Interval: 328.219238
+[2026.01.26-03.27.12:093][279]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.26-03.27.12:104][279]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.26-03.27.12:113][279]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.26-03.27.12:129][280]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.26-03.27.23:762][370]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerProjBP
+[2026.01.26-03.27.23:768][370]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.26-03.27.33:094][ 44]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.26-03.27.33:105][ 44]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.26-03.27.47:530][667]LogContentBrowser: Attempting asset rename: PlayerProjBP -> BP_Projectile
+[2026.01.26-03.27.47:595][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-03.27.47:596][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/player/BP_Projectile] ([2] browsable assets)...
+[2026.01.26-03.27.47:596][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_Projectile]
+[2026.01.26-03.27.47:596][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/player/BP_Projectile" FILE="C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Projectile.uasset" SILENT=true
+[2026.01.26-03.27.47:606][667]LogSavePackage: Moving output files for package: /Game/player/BP_Projectile
+[2026.01.26-03.27.47:606][667]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_ProjectileB7C628AF45D8DD1C6E05369A0DFF058A.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Projectile.uasset'
+[2026.01.26-03.27.47:612][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.784 ms (total: 669.240 ms)
+[2026.01.26-03.27.47:655][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.26-03.27.47:686][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.26-03.27.47:711][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.26-03.27.47:750][667]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-03.27.47:750][667]LogContentValidation: Enabled validators:
+[2026.01.26-03.27.47:750][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-03.27.47:750][667]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-03.27.47:750][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-03.27.47:750][667]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-03.27.47:750][667]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-03.27.47:750][667]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-03.27.47:750][667]AssetCheck: /Game/player/BP_Projectile Validating asset
+[2026.01.26-03.27.47:786][667]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.26-03.27.56:050][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/player/BP_Projectile.BP_Projectile
+[2026.01.26-03.27.56:050][950]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.01.26-03.28.00:499][272]LogSlate: Window 'BP_Projectile' being destroyed
+[2026.01.26-03.28.18:322][832]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.26-03.29.11:354][326]LogDerivedDataCache: C:/Users/malak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.26-03.29.32:162][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3611.509521
+[2026.01.26-03.29.32:274][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-03.29.32:274][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3611.612549, Update Interval: 322.520813
+[2026.01.26-03.33.48:169][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-03.33.48:204][949]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/player/BP_Projectile] ([2] browsable assets)...
+[2026.01.26-03.33.48:248][949]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/player/BP_Projectile.BP_Projectile]
+[2026.01.26-03.33.48:248][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_Projectile]
+[2026.01.26-03.33.48:248][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/player/BP_Projectile" FILE="C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Projectile.uasset" SILENT=true
+[2026.01.26-03.33.48:260][949]LogSavePackage: Moving output files for package: /Game/player/BP_Projectile
+[2026.01.26-03.33.48:261][949]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_Projectile1668C9914B868D02D87E87A882959227.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Projectile.uasset'
+[2026.01.26-03.33.48:272][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.808 ms (total: 772.049 ms)
+[2026.01.26-03.33.48:300][949]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-03.33.48:300][949]LogContentValidation: Enabled validators:
+[2026.01.26-03.33.48:300][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-03.33.48:300][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-03.33.48:300][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-03.33.48:300][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-03.33.48:300][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-03.33.48:300][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-03.33.48:300][949]AssetCheck: /Game/player/BP_Projectile Validating asset
+[2026.01.26-03.33.48:898][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.26-03.34.22:710][894]LogEditorTransaction: Undo Modify Component(s)
+[2026.01.26-03.34.23:120][894]LogEditorTransaction: Undo Modify Component(s)
+[2026.01.26-03.34.38:758][707]LogEditorTransaction: Undo Modify Component(s)
+[2026.01.26-03.35.42:402][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3981.766846
+[2026.01.26-03.35.42:507][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-03.35.42:507][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3981.864258, Update Interval: 354.263123
+[2026.01.26-03.37.21:631][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.26-03.37.22:578][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-03.37.22:610][ 65]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/player/BP_Player] ([2] browsable assets)...
+[2026.01.26-03.37.22:653][ 65]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/player/BP_Player.BP_Player]
+[2026.01.26-03.37.22:653][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_Player]
+[2026.01.26-03.37.22:653][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/player/BP_Player" FILE="C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Player.uasset" SILENT=true
+[2026.01.26-03.37.22:887][ 65]LogSavePackage: Moving output files for package: /Game/player/BP_Player
+[2026.01.26-03.37.22:888][ 65]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_Player705D84E64F6E969C6A37DDA05814C3B6.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Player.uasset'
+[2026.01.26-03.37.22:899][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 321.795 ms (total: 1.09 sec)
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: Enabled validators:
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-03.37.22:931][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-03.37.22:931][ 65]AssetCheck: /Game/player/BP_Player Validating asset
+[2026.01.26-03.37.28:958][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-03.37.28:988][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/player/BP_Player] ([2] browsable assets)...
+[2026.01.26-03.37.28:988][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_Player]
+[2026.01.26-03.37.28:989][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/player/BP_Player" FILE="C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Player.uasset" SILENT=true
+[2026.01.26-03.37.29:003][436]LogSavePackage: Moving output files for package: /Game/player/BP_Player
+[2026.01.26-03.37.29:004][436]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_Player0206D06148DECB22DEC404AD3B1F1F42.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Player.uasset'
+[2026.01.26-03.37.29:014][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.222 ms (total: 1.15 sec)
+[2026.01.26-03.37.29:048][436]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-03.37.29:048][436]LogContentValidation: Enabled validators:
+[2026.01.26-03.37.29:048][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-03.37.29:048][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-03.37.29:048][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-03.37.29:048][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-03.37.29:048][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-03.37.29:048][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-03.37.29:048][436]AssetCheck: /Game/player/BP_Player Validating asset
+[2026.01.26-03.37.31:768][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-03.37.31:775][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-03.37.31:776][720]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2026.01.26-03.37.31:779][720]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.01.26-03.37.31:786][721]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level
+[2026.01.26-03.37.31:788][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001922s)
+[2026.01.26-03.37.31:788][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level.level to /Game/UEDPIE_0_level.level (0.001979s)
+[2026.01.26-03.37.31:813][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.26-03.37.31:815][721]LogChaosDD: Creating Chaos Debug Draw Scene for world level
+[2026.01.26-03.37.31:817][721]LogPlayLevel: PIE: World Init took: (0.001775s)
+[2026.01.26-03.37.31:817][721]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.01.26-03.37.31:817][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-03.37.31:817][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-03.37.31:817][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-03.37.31:817][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-03.37.31:818][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-03.37.31:818][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-03.37.31:818][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-03.37.31:818][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-03.37.31:818][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-03.37.31:818][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-03.37.31:818][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-03.37.31:820][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-03.37.31:850][721]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Yeti Classic)
+[2026.01.26-03.37.31:850][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-03.37.31:850][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-03.37.31:850][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-03.37.31:851][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.01.26-03.37.31:851][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2026.01.26-03.37.31:853][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.01.26-03.37.31:853][721]LogInit: FAudioDevice initialized with ID 6.
+[2026.01.26-03.37.31:853][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.01.26-03.37.31:853][721]LogAudio: Display: Audio Device (ID: 6) registered with world 'level'.
+[2026.01.26-03.37.31:853][721]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.26-03.37.31:876][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-03.37.31:876][721]LogLoad: Game class is 'BP_GameMode_C'
+[2026.01.26-03.37.31:877][721]LogWorld: Bringing World /Game/UEDPIE_0_level.level up for play (max tick rate 0) at 2026.01.25-21.37.31
+[2026.01.26-03.37.31:877][721]LogWorld: Bringing up level for play took: 0.001015
+[2026.01.26-03.37.31:881][721]PIE: Server logged in
+[2026.01.26-03.37.31:883][721]PIE: Play in editor total start time 0.108 seconds.
+[2026.01.26-03.37.31:950][722]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.26-03.37.54:017][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-03.37.54:017][965]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level
+[2026.01.26-03.37.54:017][965]LogSlate: Window 'GAM207_ArenaShooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.26-03.37.54:027][965]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-03.37.54:027][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-03.37.54:028][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-03.37.54:033][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-03.37.54:069][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.26-03.37.54:069][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.01.26-03.37.54:071][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.01.26-03.37.54:080][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.01.26-03.37.54:141][966]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.01.26-03.38.18:199][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.26-03.38.18:202][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level' took 0.032
+[2026.01.26-03.38.18:202][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/player/BP_GameMode] ([2] browsable assets)...
+[2026.01.26-03.38.18:202][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_GameMode]
+[2026.01.26-03.38.18:213][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/player/BP_GameMode_Auto3
+[2026.01.26-03.38.18:213][346]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_GameMode_Auto359F2BBE2480265ADE83203A93D540D68.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/Autosaves/Game/player/BP_GameMode_Auto3.uasset'
+[2026.01.26-03.38.18:214][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/player/BP_PlayerController] ([2] browsable assets)...
+[2026.01.26-03.38.18:214][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_PlayerController]
+[2026.01.26-03.38.18:225][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/player/BP_PlayerController_Auto3
+[2026.01.26-03.38.18:225][346]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_PlayerController_Auto366625EA54BF1516728FE4A849E62946C.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/Autosaves/Game/player/BP_PlayerController_Auto3.uasset'
+[2026.01.26-03.38.18:227][346]LogFileHelpers: Auto-saving content packages took 0.025
+[2026.01.26-03.40.17:828][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-03.40.17:840][249]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2026.01.26-03.40.17:908][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.26-03.40.17:912][249]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (1 blueprints)
+[2026.01.26-03.40.17:912][249]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2026.01.26-03.40.17:914][249]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.01.26-03.40.17:978][250]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level
+[2026.01.26-03.40.17:980][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002002s)
+[2026.01.26-03.40.17:980][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level.level to /Game/UEDPIE_0_level.level (0.002051s)
+[2026.01.26-03.40.18:006][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.26-03.40.18:009][250]LogChaosDD: Creating Chaos Debug Draw Scene for world level
+[2026.01.26-03.40.18:011][250]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2026.01.26-03.40.18:011][250]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.01.26-03.40.18:011][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-03.40.18:011][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-03.40.18:011][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-03.40.18:011][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-03.40.18:012][250]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-03.40.18:012][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-03.40.18:012][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-03.40.18:012][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-03.40.18:012][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-03.40.18:012][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-03.40.18:012][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-03.40.18:014][250]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-03.40.18:044][250]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Yeti Classic)
+[2026.01.26-03.40.18:045][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-03.40.18:045][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-03.40.18:045][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-03.40.18:045][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.01.26-03.40.18:046][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2026.01.26-03.40.18:047][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.01.26-03.40.18:047][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.01.26-03.40.18:047][250]LogInit: FAudioDevice initialized with ID 7.
+[2026.01.26-03.40.18:047][250]LogAudio: Display: Audio Device (ID: 7) registered with world 'level'.
+[2026.01.26-03.40.18:047][250]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.26-03.40.18:072][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-03.40.18:072][250]LogLoad: Game class is 'BP_GameMode_C'
+[2026.01.26-03.40.18:073][250]LogWorld: Bringing World /Game/UEDPIE_0_level.level up for play (max tick rate 0) at 2026.01.25-21.40.18
+[2026.01.26-03.40.18:073][250]LogWorld: Bringing up level for play took: 0.000724
+[2026.01.26-03.40.18:078][250]PIE: Server logged in
+[2026.01.26-03.40.18:079][250]PIE: Play in editor total start time 0.243 seconds.
+[2026.01.26-03.40.18:140][251]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.26-03.40.44:077][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-03.40.44:077][644]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level
+[2026.01.26-03.40.44:078][644]LogSlate: Window 'GAM207_ArenaShooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.26-03.40.44:088][644]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-03.40.44:089][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-03.40.44:090][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-03.40.44:094][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-03.40.44:139][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.26-03.40.44:139][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.01.26-03.40.44:142][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.01.26-03.40.44:153][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.26-03.40.44:222][645]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.01.26-03.42.09:192][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4368.559570
+[2026.01.26-03.42.10:193][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-03.42.10:193][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4369.226562, Update Interval: 334.042175
+[2026.01.26-03.42.30:962][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-03.42.30:992][545]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/player/BP_Player] ([2] browsable assets)...
+[2026.01.26-03.42.31:039][545]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/player/BP_Player.BP_Player]
+[2026.01.26-03.42.31:039][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_Player]
+[2026.01.26-03.42.31:039][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/player/BP_Player" FILE="C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Player.uasset" SILENT=true
+[2026.01.26-03.42.31:056][545]LogSavePackage: Moving output files for package: /Game/player/BP_Player
+[2026.01.26-03.42.31:057][545]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_Player26B90D484082F236B216BFB523285A28.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Player.uasset'
+[2026.01.26-03.42.31:067][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.648 ms (total: 1.25 sec)
+[2026.01.26-03.42.31:101][545]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-03.42.31:101][545]LogContentValidation: Enabled validators:
+[2026.01.26-03.42.31:101][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-03.42.31:101][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-03.42.31:101][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-03.42.31:101][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-03.42.31:101][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-03.42.31:101][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-03.42.31:101][545]AssetCheck: /Game/player/BP_Player Validating asset
+[2026.01.26-03.42.32:687][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.26-03.42.33:245][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-03.42.33:271][770]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/player/BP_Projectile] ([2] browsable assets)...
+[2026.01.26-03.42.33:318][770]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/player/BP_Projectile.BP_Projectile]
+[2026.01.26-03.42.33:318][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/player/BP_Projectile]
+[2026.01.26-03.42.33:318][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/player/BP_Projectile" FILE="C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Projectile.uasset" SILENT=true
+[2026.01.26-03.42.33:331][770]LogSavePackage: Moving output files for package: /Game/player/BP_Projectile
+[2026.01.26-03.42.33:333][770]LogSavePackage: Moving 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Saved/BP_Projectile7C42B21D4520A0B1B0350C996093C834.tmp' to 'C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Projectile.uasset'
+[2026.01.26-03.42.33:345][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.776 ms (total: 1.35 sec)
+[2026.01.26-03.42.33:375][770]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-03.42.33:375][770]LogContentValidation: Enabled validators:
+[2026.01.26-03.42.33:375][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-03.42.33:375][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-03.42.33:375][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-03.42.33:375][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-03.42.33:375][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-03.42.33:375][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-03.42.33:376][770]AssetCheck: /Game/player/BP_Projectile Validating asset
