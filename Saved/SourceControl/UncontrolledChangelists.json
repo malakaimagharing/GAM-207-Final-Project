@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/IA_Move.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/IA_Look.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/BP_Player.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/IA_Fire.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/IMC_Player.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/BP_GameMode.uasset"
+			]
+		}
+	]
+}
