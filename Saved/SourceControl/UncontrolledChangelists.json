@@ -158,12 +158,24 @@
 				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/__ExternalActors__/NewMap1/3/ME/XNHV6DDBY75X58EI7WT0OT.uasset",
 				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/__ExternalActors__/NewMap1/7/61/PGSLJJCOTNNJT4QPNRRD4Z.uasset",
 				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/NewMap1.umap",
-				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/BP_PlayerCharacter.uasset",
 				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/level.umap",
 				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Player.uasset",
 				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_GameMode.uasset",
 				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Projectile.uasset",
-				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Target.uasset"
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_Target.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/player/BP_PlayerController.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/AIChar_BP.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/Tasks/Wander.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/AI_BT.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/AICont_BP.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/AI_Proj.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/AI_Proj_BP.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/Tasks/Focus.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/Tasks/MoveToLocation.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/Tasks/Shoot.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/ai/Tasks/StopShooting.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/Spawner/SpawnPoint.uasset",
+				"C:/Users/malak/OneDrive/Documents/Unreal Projects/GAM207_ArenaShooter/Content/BP_PlayerCharacter.uasset"
 			]
 		}
 	]
